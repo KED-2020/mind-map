@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/kyeg/GitHub_Box/mind-map/init.rb": {
+      "/Users/derrickbol/dev/mind-map/init.rb": {
         "lines": [
           null,
           null,
@@ -11,14 +11,14 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/config/init.rb": {
+      "/Users/derrickbol/dev/mind-map/config/init.rb": {
         "lines": [
           null,
           null,
           1
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/config/environment.rb": {
+      "/Users/derrickbol/dev/mind-map/config/environment.rb": {
         "lines": [
           null,
           null,
@@ -51,14 +51,14 @@
           1,
           null,
           1,
-          0,
+          10,
           null,
           null,
           null,
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/init.rb": {
         "lines": [
           null,
           null,
@@ -68,7 +68,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/models/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/models/init.rb": {
         "lines": [
           null,
           null,
@@ -78,7 +78,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/models/entities/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/models/entities/init.rb": {
         "lines": [
           null,
           null,
@@ -90,7 +90,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/models/entities/resource.rb": {
+      "/Users/derrickbol/dev/mind-map/app/models/entities/resource.rb": {
         "lines": [
           null,
           null,
@@ -119,7 +119,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/models/entities/topic.rb": {
+      "/Users/derrickbol/dev/mind-map/app/models/entities/topic.rb": {
         "lines": [
           null,
           null,
@@ -141,7 +141,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/models/mappers/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/models/mappers/init.rb": {
         "lines": [
           null,
           null,
@@ -150,7 +150,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/models/mappers/resource_mapper.rb": {
+      "/Users/derrickbol/dev/mind-map/app/models/mappers/resource_mapper.rb": {
         "lines": [
           null,
           null,
@@ -240,7 +240,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/models/repositories/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/models/repositories/init.rb": {
         "lines": [
           null,
           null,
@@ -249,7 +249,7 @@
           1
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/models/repositories/resources.rb": {
+      "/Users/derrickbol/dev/mind-map/app/models/repositories/resources.rb": {
         "lines": [
           null,
           null,
@@ -320,7 +320,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/models/repositories/topics.rb": {
+      "/Users/derrickbol/dev/mind-map/app/models/repositories/topics.rb": {
         "lines": [
           null,
           null,
@@ -362,7 +362,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/models/repositories/for.rb": {
+      "/Users/derrickbol/dev/mind-map/app/models/repositories/for.rb": {
         "lines": [
           null,
           null,
@@ -387,7 +387,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/infrastructure/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/infrastructure/init.rb": {
         "lines": [
           null,
           null,
@@ -397,7 +397,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/infrastructure/gateways/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/infrastructure/gateways/init.rb": {
         "lines": [
           null,
           null,
@@ -406,7 +406,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/infrastructure/gateways/github_api.rb": {
+      "/Users/derrickbol/dev/mind-map/app/infrastructure/gateways/github_api.rb": {
         "lines": [
           null,
           null,
@@ -493,7 +493,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/infrastructure/database/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/infrastructure/database/init.rb": {
         "lines": [
           null,
           null,
@@ -503,7 +503,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/infrastructure/database/orms/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/infrastructure/database/orms/init.rb": {
         "lines": [
           null,
           null,
@@ -512,7 +512,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/infrastructure/database/orms/inbox_orm.rb": {
+      "/Users/derrickbol/dev/mind-map/app/infrastructure/database/orms/inbox_orm.rb": {
         "lines": [
           null,
           null,
@@ -533,7 +533,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/infrastructure/database/orms/resource_orm.rb": {
+      "/Users/derrickbol/dev/mind-map/app/infrastructure/database/orms/resource_orm.rb": {
         "lines": [
           null,
           null,
@@ -554,7 +554,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/infrastructure/database/orms/suggestion_orm.rb": {
+      "/Users/derrickbol/dev/mind-map/app/infrastructure/database/orms/suggestion_orm.rb": {
         "lines": [
           null,
           null,
@@ -580,7 +580,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/infrastructure/database/orms/topic_orm.rb": {
+      "/Users/derrickbol/dev/mind-map/app/infrastructure/database/orms/topic_orm.rb": {
         "lines": [
           null,
           null,
@@ -605,7 +605,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/controllers/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/controllers/init.rb": {
         "lines": [
           null,
           null,
@@ -614,26 +614,27 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/controllers/app.rb": {
+      "/Users/derrickbol/dev/mind-map/app/controllers/app.rb": {
         "lines": [
           null,
           null,
           1,
           1,
           1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
           1,
           null,
           1,
           null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
           null,
           1,
           0,
@@ -651,6 +652,17 @@
           null,
           0,
           null,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
           null,
           0,
           null,
@@ -659,18 +671,6 @@
           null,
           0,
           0,
-          null,
-          null,
-          null,
-          null,
-          null,
-          0,
-          null,
-          null,
-          0,
-          null,
-          0,
-          0,
           0,
           null,
           null,
@@ -679,6 +679,7 @@
           null,
           null,
           0,
+          null,
           null,
           null,
           null,
@@ -772,7 +773,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/domain/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/domain/init.rb": {
         "lines": [
           null,
           null,
@@ -782,7 +783,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/domain/inboxes/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/domain/inboxes/init.rb": {
         "lines": [
           null,
           null,
@@ -792,7 +793,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/domain/inboxes/entities/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/domain/inboxes/entities/init.rb": {
         "lines": [
           null,
           null,
@@ -804,11 +805,39 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/domain/inboxes/entities/inbox.rb": {
+      "/Users/derrickbol/dev/mind-map/app/domain/inboxes/entities/inbox.rb": {
         "lines": [
           null,
           null,
           1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          18,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/derrickbol/dev/mind-map/app/domain/inboxes/entities/suggestion.rb": {
+        "lines": [
+          null,
           null,
           1,
           1,
@@ -834,35 +863,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/domain/inboxes/entities/suggestion.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/kyeg/GitHub_Box/mind-map/app/domain/inboxes/mappers/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/domain/inboxes/mappers/init.rb": {
         "lines": [
           null,
           null,
@@ -871,7 +872,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/domain/inboxes/mappers/github_suggestions_mapper.rb": {
+      "/Users/derrickbol/dev/mind-map/app/domain/inboxes/mappers/github_suggestions_mapper.rb": {
         "lines": [
           null,
           null,
@@ -932,7 +933,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/domain/inboxes/mappers/inbox_mapper.rb": {
+      "/Users/derrickbol/dev/mind-map/app/domain/inboxes/mappers/inbox_mapper.rb": {
         "lines": [
           null,
           null,
@@ -957,7 +958,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/domain/inboxes/repositories/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/domain/inboxes/repositories/init.rb": {
         "lines": [
           null,
           null,
@@ -966,7 +967,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/domain/inboxes/repositories/for.rb": {
+      "/Users/derrickbol/dev/mind-map/app/domain/inboxes/repositories/for.rb": {
         "lines": [
           null,
           null,
@@ -984,7 +985,7 @@
           null,
           null,
           1,
-          0,
+          3,
           null,
           null,
           1,
@@ -996,7 +997,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/domain/inboxes/repositories/inboxes.rb": {
+      "/Users/derrickbol/dev/mind-map/app/domain/inboxes/repositories/inboxes.rb": {
         "lines": [
           null,
           null,
@@ -1015,15 +1016,9 @@
           null,
           null,
           1,
-          0,
+          3,
           null,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          0,
+          3,
           null,
           null,
           1,
@@ -1033,34 +1028,22 @@
           null,
           null,
           1,
+          3,
           null,
-          1,
-          0,
-          null,
-          0,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          1,
-          0,
-          0,
+          3,
           null,
           null,
           1,
           0,
           null,
+          0,
+          null,
           null,
           1,
-          0,
-          0,
-          0,
+          6,
           null,
-          0,
+          3,
+          null,
           null,
           null,
           null,
@@ -1069,6 +1052,7 @@
           null,
           1,
           1,
+          0,
           0,
           null,
           null,
@@ -1079,6 +1063,27 @@
           1,
           0,
           0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          3,
+          null,
+          null,
+          1,
+          3,
+          null,
+          null,
+          1,
+          3,
+          3,
           0,
           null,
           0,
@@ -1091,7 +1096,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/domain/inboxes/repositories/suggestions.rb": {
+      "/Users/derrickbol/dev/mind-map/app/domain/inboxes/repositories/suggestions.rb": {
         "lines": [
           null,
           null,
@@ -1112,7 +1117,7 @@
           null,
           null,
           1,
-          0,
+          3,
           0,
           null,
           null,
@@ -1125,7 +1130,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/presentation/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/presentation/init.rb": {
         "lines": [
           null,
           null,
@@ -1135,7 +1140,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/presentation/view_objects/init.rb": {
+      "/Users/derrickbol/dev/mind-map/app/presentation/view_objects/init.rb": {
         "lines": [
           null,
           null,
@@ -1144,7 +1149,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/app/presentation/view_objects/inbox.rb": {
+      "/Users/derrickbol/dev/mind-map/app/presentation/view_objects/inbox.rb": {
         "lines": [
           null,
           null,
@@ -1171,7 +1176,7 @@
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/spec/helpers/database_helper.rb": {
+      "/Users/derrickbol/dev/mind-map/spec/helpers/database_helper.rb": {
         "lines": [
           null,
           null,
@@ -1186,14 +1191,14 @@
           null,
           null,
           1,
-          0,
-          0,
-          0,
+          5,
+          5,
+          5,
           null,
           null
         ]
       },
-      "/Users/kyeg/GitHub_Box/mind-map/spec/helpers/vcr_helper.rb": {
+      "/Users/derrickbol/dev/mind-map/spec/helpers/vcr_helper.rb": {
         "lines": [
           null,
           null,
@@ -1206,6 +1211,7 @@
           1,
           null,
           1,
+          0,
           0,
           0,
           0,
@@ -1232,6 +1238,6 @@
         ]
       }
     },
-    "timestamp": 1606300706
+    "timestamp": 1606574729
   }
 }

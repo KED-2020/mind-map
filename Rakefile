@@ -39,7 +39,7 @@ end
 namespace :respec do
   desc 'Keep rerunning unit/integration tests upon changes'
   task :all do
-    sh "rerun -c 'rake spec:all' --ignore 'coverage/*'" 
+    sh "rerun -c 'rake spec:all' --ignore 'coverage/*'"
   end
 end
 
